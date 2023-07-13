@@ -31,12 +31,12 @@
 	
 	<distributionManagement>
 		 <snapshotRepository>
-		    <id>nexusRepo</id>
+		    <id>naveenRepo</id>
 		    <url>http://18.141.153.130:8081/repository/1234-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>nexusRepo</id>
+		    <id>naveenRepo</id>
 		    <url>http://18.141.153.130:8081/repository/Navi-Release/</url>
 		</repository>
   	</distributionManagement>
