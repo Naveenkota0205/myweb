@@ -32,12 +32,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://35.77.201.128:8081/repository/sample-snapshots/</url>
+		    <url>http://18.141.153.130:8081/repository/1234-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://35.77.201.128:8081/repository/sample-releases/</url>
+		    <url>http://18.141.153.130:8081/repository/Navi-Release/</url>
 		</repository>
   	</distributionManagement>
 	
